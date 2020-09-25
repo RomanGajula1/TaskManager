@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Task Manager</string>
+    <string name="btn_delete">Удалить</string>
+    <string name="title_menu">Добавить новое задание</string>
+</resources>
